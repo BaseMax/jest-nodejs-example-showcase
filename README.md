@@ -51,6 +51,17 @@ This will trigger Jest to run all the tests in the `__tests__`/ directory. You c
 
 The Jest configuration can be defined in the `jest.config.js` file. This file includes settings such as test environment, test match patterns, and other configuration options. Feel free to customize this file according to your project's needs.
 
+## Sources
+
+- https://jestjs.io/
+- https://jestjs.io/docs/getting-started
+- https://jestjs.io/docs/api
+- https://github.com/jestjs/jest
+- https://github.com/jestjs
+- https://www.npmjs.com/package/jest-get-type
+- https://jestjs.io/docs/expect#matchers
+- https://jestjs.io/docs/configuration
+
 ## Contributing
 
 If you find issues, have suggestions, or would like to contribute to this example showcase, please open an issue or submit a pull request. Contributions are welcome and appreciated!
