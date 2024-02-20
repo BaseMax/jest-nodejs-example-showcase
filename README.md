@@ -30,9 +30,9 @@ npm install
 
 The project structure is designed to be simple and easy to understand. Here's a brief overview:
 
-`__tests__/`: Houses the Jest test files corresponding to the source code.
-`package.json`: Includes project dependencies and scripts for running tests.
-`jest.config.js`: Jest configuration file with settings for test execution.
+- `__tests__/`: Houses the Jest test files corresponding to the source code.
+- `package.json`: Includes project dependencies and scripts for running tests.
+- `jest.config.js`: Jest configuration file with settings for test execution.
 
 Feel free to modify the project structure based on your preferences and project requirements.
 
