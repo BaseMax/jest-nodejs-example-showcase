@@ -1,0 +1,23 @@
+{
+  "name": "jest-nodejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "oldtest": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --maxWorkers=4",
+    "watchtest": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "jest-get-type": "^29.6.3"
+  }
+}
